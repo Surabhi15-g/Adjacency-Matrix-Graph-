@@ -1,2 +1,5 @@
-# Adjacency-Matrix-Graph-
-Use a 2D matrix (list of lists). Each cell (i, j) shows 1 (or weight) if there’s an edge between node i and node j, otherwise 0.
+   A  B  C  D
+A [0, 1, 1, 0]
+B [1, 0, 0, 1]
+C [1, 0, 0, 1]
+D [0, 1, 1, 0]
